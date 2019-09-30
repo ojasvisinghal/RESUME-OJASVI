@@ -41,9 +41,10 @@ const useStyles = makeStyles({
     marginTop: 20, 
   },
   heading: {
-    fontSize: 20,
+    fontSize: 17,
+    fontWeight:600,
     color: '#3f51b5'
-  }
+  },
 });
 
 function HomeIcon(props) {
@@ -68,21 +69,21 @@ export default function SimpleCard() {
           Full Stack Developer - First, solve the problem. Then, write the code.
         </Typography>
         <Typography variant="body2" component="p" color="textSecondary">
-          B.tech in Computer Science & Engineering :
+        <Typography className={classes.heading}>  B.tech in Computer Science & Engineering </Typography>
           <Grid container className={classes.divLayout}>
             <Grid item xs={12}>Jaipur Engineering College & Research Center</Grid>
             <Grid item xs={12}>Aug 2013 - May 2017</Grid>
             <Grid item xs={12}>Aggregate: 80.33% (HONORS Degree)</Grid>
           </Grid>
-          Schooling :
+          <Typography className={classes.heading}> Schooling </Typography>
           <Grid container className={classes.divLayout}>
             <Grid item xs={12}>Apr 2006 - Mar 2013</Grid>
             <Grid item xs={12}>Xth : 8.8 CGPA, XII th : 89%</Grid>
           </Grid>
         </Typography>
-        <HomeIcon className={classes.iconHover} style={{ fontSize: 30 }} />
+        {/* <HomeIcon className={classes.iconHover} style={{ fontSize: 30 }} />
         <HomeIcon className={classes.iconHover} color="error" style={{ fontSize: 30 }} />
-        <HomeIcon className={classes.iconHover} color="error" style={{ fontSize: 30 }} />
+        <HomeIcon className={classes.iconHover} color="error" style={{ fontSize: 30 }} /> */}
       </CardContent>
     </Card>
   );
