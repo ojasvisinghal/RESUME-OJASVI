@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/resume-ojasvi/static/css/main.2cce8147.chunk.css",
-    "main.js": "/resume-ojasvi/static/js/main.91c028e4.chunk.js",
-    "main.js.map": "/resume-ojasvi/static/js/main.91c028e4.chunk.js.map",
-    "runtime~main.js": "/resume-ojasvi/static/js/runtime~main.d3e1de31.js",
-    "runtime~main.js.map": "/resume-ojasvi/static/js/runtime~main.d3e1de31.js.map",
-    "static/js/2.d935e84b.chunk.js": "/resume-ojasvi/static/js/2.d935e84b.chunk.js",
-    "static/js/2.d935e84b.chunk.js.map": "/resume-ojasvi/static/js/2.d935e84b.chunk.js.map",
-    "index.html": "/resume-ojasvi/index.html",
-    "precache-manifest.87ca2578241d5b96b2e53a214e3104f1.js": "/resume-ojasvi/precache-manifest.87ca2578241d5b96b2e53a214e3104f1.js",
-    "service-worker.js": "/resume-ojasvi/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/resume-ojasvi/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/resume-ojasvi/static/media/logo.5d5d9eef.svg",
-    "static/media/ojasvi.jpg": "/resume-ojasvi/static/media/ojasvi.a2735331.jpg",
-    "static/media/ojasvi.png": "/resume-ojasvi/static/media/ojasvi.b393ef01.png",
-    "static/media/photo.png": "/resume-ojasvi/static/media/photo.363ba016.png",
-    "static/media/poetry.png": "/resume-ojasvi/static/media/poetry.8756159f.png",
-    "static/media/sketch.png": "/resume-ojasvi/static/media/sketch.6ddd636a.png"
+    "main.css": "/static/css/main.2cce8147.chunk.css",
+    "main.js": "/static/js/main.272ebebe.chunk.js",
+    "main.js.map": "/static/js/main.272ebebe.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.17d2701f.js",
+    "runtime~main.js.map": "/static/js/runtime~main.17d2701f.js.map",
+    "static/js/2.d935e84b.chunk.js": "/static/js/2.d935e84b.chunk.js",
+    "static/js/2.d935e84b.chunk.js.map": "/static/js/2.d935e84b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bcde450e1561144e8602ccf9ec3a6e23.js": "/precache-manifest.bcde450e1561144e8602ccf9ec3a6e23.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/ojasvi.jpg": "/static/media/ojasvi.a2735331.jpg",
+    "static/media/ojasvi.png": "/static/media/ojasvi.b393ef01.png",
+    "static/media/photo.png": "/static/media/photo.363ba016.png",
+    "static/media/poetry.png": "/static/media/poetry.8756159f.png",
+    "static/media/sketch.png": "/static/media/sketch.6ddd636a.png"
   }
 }
