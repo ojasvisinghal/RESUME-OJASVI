@@ -1,6 +1,7 @@
 {
   "name": "resume-ojasvi",
   "version": "0.1.0",
+  "homepage": "https://ojasvisinghal.github.io/resume-ojasvi/",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
