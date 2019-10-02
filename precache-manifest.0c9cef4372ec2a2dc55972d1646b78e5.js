@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d50cb20be58d8b27154c9c74f400148",
+    "revision": "8c52d5f80a198d4d6870f0a2579cb541",
     "url": "/resume-ojasvi/index.html"
   },
   {
-    "revision": "abf07d59a7237fa8b445",
+    "revision": "3cb187b0db9811dcfc9d",
     "url": "/resume-ojasvi/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "ebf6a4e4f86b1ceb9f97",
-    "url": "/resume-ojasvi/static/js/2.d935e84b.chunk.js"
+    "revision": "2a818fc26c6461e768df",
+    "url": "/resume-ojasvi/static/js/2.3f00b8ed.chunk.js"
   },
   {
-    "revision": "abf07d59a7237fa8b445",
-    "url": "/resume-ojasvi/static/js/main.91c028e4.chunk.js"
+    "revision": "3cb187b0db9811dcfc9d",
+    "url": "/resume-ojasvi/static/js/main.30d853b1.chunk.js"
   },
   {
     "revision": "9d16bf034a5b8aafec57",
     "url": "/resume-ojasvi/static/js/runtime~main.d3e1de31.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/resume-ojasvi/static/media/logo.5d5d9eef.svg"
+    "revision": "a31be08924b73500c732c1af6297406b",
+    "url": "/resume-ojasvi/static/media/background.a31be089.jpg"
   },
   {
-    "revision": "a27353310fbd0ffbd165c3f3bc1fd979",
-    "url": "/resume-ojasvi/static/media/ojasvi.a2735331.jpg"
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/resume-ojasvi/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "b393ef016ab40ec3cfb81990e0193bcc",
