@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c52d5f80a198d4d6870f0a2579cb541",
+    "revision": "f4b95f1abb9dcd575218d5f5f30cda8b",
     "url": "/resume-ojasvi/index.html"
   },
   {
-    "revision": "3cb187b0db9811dcfc9d",
+    "revision": "aabb349d801a67d7caf4",
     "url": "/resume-ojasvi/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume-ojasvi/static/js/2.3f00b8ed.chunk.js"
   },
   {
-    "revision": "3cb187b0db9811dcfc9d",
-    "url": "/resume-ojasvi/static/js/main.30d853b1.chunk.js"
+    "revision": "aabb349d801a67d7caf4",
+    "url": "/resume-ojasvi/static/js/main.1c206544.chunk.js"
   },
   {
     "revision": "9d16bf034a5b8aafec57",
