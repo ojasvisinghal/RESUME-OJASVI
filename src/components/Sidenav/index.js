@@ -80,7 +80,7 @@ const useStyles = makeStyles(theme => ({
     backgroundColor: '#e8e4e4',
   },
   alignment: {
-    width: 1000
+    width: 400
   }
 }));
 
@@ -144,9 +144,9 @@ function ResponsiveDrawer(props) {
           >
             <MenuIcon />
           </IconButton>
-
           <Typography className={classes.alignment} variant="h6" noWrap>Ojasvi Singhal</Typography>
-          <Grid container alignItems="flex-start" justify="flex-end">
+          <Grid container alignItems="flex-start" justify="flex-end" direction="row">
+
           <Tooltip title="Download Resume" placement="bottom">
             <IconButton
               aria-label="DownLoad Resume"
