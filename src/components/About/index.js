@@ -7,9 +7,12 @@ import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
-import Image from './../../static/images/background/ojasvi.jpg';
+import Image from './../../static/images/background/background.jpg';
 import SvgIcon from '@material-ui/core/SvgIcon';
 import { blue } from '@material-ui/core/colors';
+
+
+
 
 const useStyles = makeStyles({
   card: {
@@ -81,7 +84,7 @@ export default function SimpleCard() {
             <Grid item xs={12}>Xth : 8.8 CGPA, XII th : 89%</Grid>
           </Grid>
         </Typography>
-        {/* <HomeIcon className={classes.iconHover} style={{ fontSize: 30 }} />
+        {/* <LinkedInIcon className={classes.iconHover} style={{ fontSize: 30 }} />
         <HomeIcon className={classes.iconHover} color="error" style={{ fontSize: 30 }} />
         <HomeIcon className={classes.iconHover} color="error" style={{ fontSize: 30 }} /> */}
       </CardContent>
